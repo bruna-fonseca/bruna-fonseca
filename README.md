@@ -25,6 +25,6 @@ I am interested in communication and technology and I have a background as a stu
 
 For now, I study web development to pursue a career in this area.
 
-<a href="https://www.linkedin.com/in/fonseca-bruna/">
-  <img src="https://img.shields.io/badge/BrunaFonseca-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="120px" target="_blank"> 
+<a href="https://www.linkedin.com/in/fonseca-bruna/" target="_blank">
+  <img src="https://img.shields.io/badge/BrunaFonseca-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="120px"> 
   </a>
