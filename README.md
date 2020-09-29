@@ -29,5 +29,5 @@ For now, I study web development to pursue a career in this area.
   <img src="https://img.shields.io/badge/BrunaFonseca-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="120px"> 
   </a>
   <a href="mailto:1998bfonseca@gmail.com">
-  <img src="https://img.shields.io/badge/1998bfonseca@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white" width="140px"> 
+  <img src="https://img.shields.io/badge/1998bfonseca@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white" width="200px"> 
   </a>
