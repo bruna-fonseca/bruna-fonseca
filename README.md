@@ -1,6 +1,6 @@
 # Oie. 👋
 
-##I'm Bruna Fonsêca (22) and a I'm student at [Trybe](https://www.betrybe.com/). 
+I'm Bruna Fonsêca (22) and a I'm student at [Trybe](https://www.betrybe.com/). 
 
 I am interested in communication and technology and I have a background as a student in advertising and marketing.
 
