@@ -26,8 +26,6 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" styles="display: inline" />
 </p>
 
-<br/>
-
 <h3 align="left">Se conecte comigo:</h3>
 
 <p align="left">
