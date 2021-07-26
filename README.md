@@ -28,7 +28,7 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" styles="display: inline" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruna-fonseca)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Se conecte comigo:</h3>
 
