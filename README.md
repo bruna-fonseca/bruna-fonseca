@@ -9,7 +9,7 @@
 
 - 📖 Sou estudante da [Trybe](https://www.betrybe.com/) na Turma 7.
 
-- 🌱 Atualmente estou estudando <strong>Node.js, MongoDB e Mysql</strong>
+- 🌱 Atualmente estou estudando <strong>Python</strong>
 
 - 💬 Pode vir conversar comigo sobre <strong>JavaScript, React, Node.js</strong> ou qualquer outra tecnologica bacana
 
