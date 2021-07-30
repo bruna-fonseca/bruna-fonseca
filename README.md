@@ -3,7 +3,8 @@
 
 <br>
 
-<a  target="_blank" href="https://64.media.tumblr.com/58e600ceb83fed78b351b65a63e3d79e/35ed2e5654ed9e0e-4d/s2048x3072/6c9b9b4b3719aa85281632bb0be10cfae4200574.png"><img align="right" src="https://64.media.tumblr.com/58e600ceb83fed78b351b65a63e3d79e/35ed2e5654ed9e0e-4d/s2048x3072/6c9b9b4b3719aa85281632bb0be10cfae4200574.png" width="320px" /></a>
+<!-- <a  target="_blank" href="https://64.media.tumblr.com/58e600ceb83fed78b351b65a63e3d79e/35ed2e5654ed9e0e-4d/s2048x3072/6c9b9b4b3719aa85281632bb0be10cfae4200574.png"><img align="right" src="https://64.media.tumblr.com/58e600ceb83fed78b351b65a63e3d79e/35ed2e5654ed9e0e-4d/s2048x3072/6c9b9b4b3719aa85281632bb0be10cfae4200574.png" width="320px" /></a> -->
+<img src="https://cdn.discordapp.com/attachments/756657072593961034/870667107375915028/ezgif-7-9844e8d4430c.gif" alt="ilustração representando bruna fonseca" align="right" width="320" />
 
 <p>Sou uma pessoa que vem da área da comunicação, mas sempre fui muito apaixonada pela tecnologia. Hoje, estudo e tento me aperfeiçoar ao máximo para conseguir me inserir no mercado de TI.</p>
 
