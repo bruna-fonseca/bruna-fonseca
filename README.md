@@ -7,6 +7,8 @@
 
 <p>Sou uma pessoa que vem da área da comunicação, mas sempre fui muito apaixonada pela tecnologia. Hoje, estudo e tento me aperfeiçoar ao máximo para conseguir me inserir no mercado de TI.</p>
 
+##
+
 - 📖 Sou estudante da [Trybe](https://www.betrybe.com/) na Turma 7.
 
 - 🌱 Atualmente estou estudando <strong>Python</strong>
@@ -29,6 +31,8 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-fonseca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+##
 
 ![Snake animation](https://github.com/bruna-fonseca/bruna-fonseca/blob/output/github-contribution-grid-snake.svg)
 
