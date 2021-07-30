@@ -28,11 +28,9 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" styles="display: inline" />
 </p>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruna-fonseca)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-fonseca)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-fonseca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Snake animation](https://github.com/bruna-fonseca/bruna-fonseca/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Se conecte comigo:</h3>
 
