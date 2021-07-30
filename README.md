@@ -13,8 +13,6 @@
 
 - 💬 Pode vir conversar comigo sobre <strong>JavaScript, React, Node.js</strong> ou qualquer outra tecnologica bacana
 
-##
-
 <h3>Tecnologia que mais utilizo e estudo</h3>
 
 <p align="left">
