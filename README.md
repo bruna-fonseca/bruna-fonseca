@@ -29,7 +29,14 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" styles="display: inline" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-fonseca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-fonseca&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=bruna-fonseca&theme=buefy"/></td>
+    </tr>   
+</table>
+</center> 
 
 ![Snake animation](https://github.com/bruna-fonseca/bruna-fonseca/blob/output/github-contribution-grid-snake.svg)
 
