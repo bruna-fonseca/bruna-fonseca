@@ -1,5 +1,5 @@
 <h1 align="center">Oie 👋, Sou Bruna Fonsêca</h1>
-<h2 align="center">Estudante de desenvolvimento web Full Stack</h2>
+<h2 align="center">Desenvolvimento web Full Stack</h2>
 
 <br>
 
