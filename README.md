@@ -10,7 +10,7 @@
 
 - 📖 Sou estudante da [Trybe](https://www.betrybe.com/) na Turma 7.
 
-- 🌱 Atualmente estou me aprimorando em <strong>React</strong>
+- 🌱 Atualmente estou me aprimorando em <strong>React e Vuejs</strong>
 
 - 💬 Pode vir conversar comigo sobre <strong>JavaScript, React, Node.js</strong> ou qualquer outra tecnologica bacana
 
