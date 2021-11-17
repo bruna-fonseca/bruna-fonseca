@@ -8,7 +8,7 @@
 
 <p>Sou uma pessoa que vem da área da comunicação, mas sempre fui muito apaixonada pela tecnologia. Hoje, estudo e tento me aperfeiçoar ao máximo para conseguir me inserir no mercado de TI.</p>
 
-- 📖 Sou estudante da [Trybe](https://www.betrybe.com/) na Turma 7.
+- 📖 Fui estudante da [Trybe](https://www.betrybe.com/) na Turma 7.
 
 - 🌱 Atualmente estou me aprimorando em <strong>React e Vuejs</strong>
 
