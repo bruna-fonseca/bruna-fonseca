@@ -1,5 +1,4 @@
 <h1 align="center">Oie 👋, Sou Bruna Fonsêca</h1>
-<h2 align="center">Software developer</h2>
 
 <br>
 
