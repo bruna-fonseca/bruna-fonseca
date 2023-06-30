@@ -38,8 +38,6 @@
 </table>
 </center> 
 
-![Snake animation](https://github.com/bruna-fonseca/bruna-fonseca/blob/output/github-contribution-grid-snake.svg)
-
 <h3 align="left">Se conecte comigo:</h3>
 
 <p align="left">
