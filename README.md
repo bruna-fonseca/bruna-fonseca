@@ -16,6 +16,7 @@
 <h3>Tecnologia que mais utilizo e estudo</h3>
 
 <p align="left">
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" styles="display: inline" />
