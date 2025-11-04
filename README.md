@@ -5,11 +5,24 @@
 <!-- <a  target="_blank" href="https://64.media.tumblr.com/58e600ceb83fed78b351b65a63e3d79e/35ed2e5654ed9e0e-4d/s2048x3072/6c9b9b4b3719aa85281632bb0be10cfae4200574.png"><img align="right" src="https://64.media.tumblr.com/58e600ceb83fed78b351b65a63e3d79e/35ed2e5654ed9e0e-4d/s2048x3072/6c9b9b4b3719aa85281632bb0be10cfae4200574.png" width="320px" /></a> -->
 <img src="https://cdn.discordapp.com/attachments/756657072593961034/870667107375915028/ezgif-7-9844e8d4430c.gif" alt="ilustração representando bruna fonseca" align="right" width="320" />
 
-<p>Sou uma pessoa que vem da área da comunicação, mas sempre fui muito apaixonada pela tecnologia. Hoje, estudo e tento me aperfeiçoar ao máximo para conseguir me inserir no mercado de TI.</p>
+<p>Sou uma Desenvolvedora iOS com experiência em Swift, UIKit e SwiftUI, atualmente atuando em uma empresa de grande porte como o Mercado Livre.</p>
+<p>Minha paixão é criar e manter funcionalidades em aplicações mobile nativas , focando em soluções escaláveis, entregas ágeis e usabilidade centrada no usuário</p>
+
+---
+
+### 💻 Habilidades Chave
+
+* **Linguagens e Frameworks:** Swift, SwiftUI, UIKit, React Native], Flutter, ReactJS, Git.
+* **Metodologias:** Forte atuação em times **ágeis** e multidisciplinares.
+* **Experiência Intercultural:** Tenho colaborado com equipes de diferentes países da América Latina (Colômbia e Argentina) e equipes internacionais (Índia), o que fortaleceu minha **comunicação intercultural** e capacidade de **trabalho remoto colaborativo**.
+
+---
+
+### 🚀 Curiosidades
 
 - 📖 Fui estudante da [Trybe](https://www.betrybe.com/) na Turma 7.
 
-- 🌱 Atualmente estou me aprimorando em <strong>Swift</strong>
+- 🚀 Fiz transição de carreira, antes trabalhava na área da comunicação como Publicitária.
 
 - 💬 Pode vir conversar comigo sobre <strong>JavaScript, React, Node.js</strong> ou qualquer outra tecnologica bacana
 
