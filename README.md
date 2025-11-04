@@ -6,13 +6,14 @@
 <img src="https://cdn.discordapp.com/attachments/756657072593961034/870667107375915028/ezgif-7-9844e8d4430c.gif" alt="ilustração representando bruna fonseca" align="right" width="320" />
 
 <p>Sou uma Desenvolvedora iOS com experiência em Swift, UIKit e SwiftUI, atualmente atuando em uma empresa de grande porte como o Mercado Livre.</p>
+
 <p>Minha paixão é criar e manter funcionalidades em aplicações mobile nativas , focando em soluções escaláveis, entregas ágeis e usabilidade centrada no usuário</p>
 
 ---
 
 ### 💻 Habilidades Chave
 
-* **Linguagens e Frameworks:** Swift, SwiftUI, UIKit, React Native], Flutter, ReactJS, Git.
+* **Linguagens e Frameworks:** Swift, SwiftUI, UIKit, React Native, Flutter, ReactJS, Git.
 * **Metodologias:** Forte atuação em times **ágeis** e multidisciplinares.
 * **Experiência Intercultural:** Tenho colaborado com equipes de diferentes países da América Latina (Colômbia e Argentina) e equipes internacionais (Índia), o que fortaleceu minha **comunicação intercultural** e capacidade de **trabalho remoto colaborativo**.
 
@@ -25,6 +26,8 @@
 - 🚀 Fiz transição de carreira, antes trabalhava na área da comunicação como Publicitária.
 
 - 💬 Pode vir conversar comigo sobre <strong>JavaScript, React, Node.js</strong> ou qualquer outra tecnologica bacana
+
+---
 
 <h3>Tecnologia que mais utilizo e estudo</h3>
 
